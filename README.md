@@ -1,30 +1,26 @@
 # challengeAmigoSecreto
 
-Descripción
+🎉 Amigo Secreto
 
-"Amigo Secreto" es una aplicación web interactiva que permite a los usuarios ingresar nombres de amigos y realizar un sorteo aleatorio para elegir a un "amigo secreto". El proyecto está diseñado para mejorar las habilidades en lógica de programación y manipulación del DOM con JavaScript.
+📌 Descripción
 
-Este proyecto forma parte del curso de programación impartido por Alura Latam.
+Amigo Secreto es una aplicación web interactiva que permite a los usuarios ingresar nombres de amigos y realizar un sorteo aleatorio para elegir a un "amigo secreto".
 
-Tecnologías Utilizadas
+Este proyecto forma parte del curso de programación impartido por Alura Latam y tiene como objetivo fortalecer habilidades en lógica de programación y manipulación del DOM con JavaScript.
 
-HTML: Estructura de la aplicación.
+🚀 Tecnologías Utilizadas
 
-CSS: Estilos y diseño responsivo.
+🏗 HTML: Estructura de la aplicación.
 
-JavaScript: Lógica de la aplicación y manipulación del DOM.
+🎨 CSS: Estilos y diseño responsivo.
 
-Características
+⚙ JavaScript: Lógica de la aplicación y manipulación del DOM.
 
-Agregar nombres de amigos a una lista.
+✨ Características
 
-Mostrar la lista de amigos ingresados.
+✔ Agregar nombres de amigos a una lista.✔ Mostrar la lista de amigos ingresados.✔ Realizar un sorteo aleatorio para seleccionar un "amigo secreto".✔ Validaciones para evitar entradas vacías y asegurar un mínimo de participantes.
 
-Realizar un sorteo aleatorio para seleccionar un "amigo secreto".
-
-Validaciones para evitar entradas vacías y asegurar un mínimo de participantes.
-
-Instalación y Uso
+📥 Instalación y Uso
 
 Clona este repositorio en tu equipo:
 
@@ -36,15 +32,16 @@ Ingresa los nombres de los participantes y haz clic en "Añadir".
 
 Una vez que haya al menos tres participantes, haz clic en "Sortear amigo" para obtener un resultado aleatorio.
 
-Archivos Principales
+📂 Archivos Principales
 
-index.html: Contiene la estructura del proyecto.
+🗂 index.html → Contiene la estructura del proyecto.
 
-style.css: Define la apariencia visual de la página.
+🎨 style.css → Define la apariencia visual de la página.
 
-app.js: Contiene la lógica del sorteo y la gestión de la lista de amigos.
+⚙ app.js → Contiene la lógica del sorteo y la gestión de la lista de amigos.
 
-Autor
+👨‍💻 Autor
 
 Desarrollado por Marcelo.
 
+📌 Repositorio en GitHub
