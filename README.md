@@ -18,7 +18,13 @@ Este proyecto forma parte del curso de programación impartido por Alura Latam y
 
 ✨ Características
 
-✔ Agregar nombres de amigos a una lista.✔ Mostrar la lista de amigos ingresados.✔ Realizar un sorteo aleatorio para seleccionar un "amigo secreto".✔ Validaciones para evitar entradas vacías y asegurar un mínimo de participantes.
+✔ Agregar nombres de amigos a una lista.
+
+✔ Mostrar la lista de amigos ingresados.
+
+✔ Realizar un sorteo aleatorio para seleccionar un "amigo secreto".
+
+✔ Validaciones para evitar entradas vacías y asegurar un mínimo de participantes.
 
 📥 Instalación y Uso
 
